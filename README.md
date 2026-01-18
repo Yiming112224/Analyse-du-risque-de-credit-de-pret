@@ -100,10 +100,10 @@ predictions = clf.predict(test_df[features])
 
 ## 📊 Key Results
 ### Feature Correlation
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ### Age Distribution by Loan Intent
-![Ridgeline Plot](images/ridgeline_plot.png)
+![Ridgeline Plot](ridgeline_plot.png)
 
 ### Model Performance
 | Metric    | Score |
